@@ -1,0 +1,23 @@
+{
+    "icons": [
+      {
+        "src": "icons/icon-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      },
+      {
+        "src": "icons/icon-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }
+    ],
+    "name": "PWA_Budget_Tracker",
+    "short_name": "Budget_Tracker",
+    "orientation": "portrait",
+    "display": "standalone",
+    "start_url": "/",
+    "description": "An application that allows the user to add up expenses and make deposit while providing a balance statement.",
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff",
+    "theme-color": "#ffffff"
+  }
