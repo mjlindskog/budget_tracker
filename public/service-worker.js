@@ -60,6 +60,7 @@ self.addEventListener("fetch", e => {
                 })
                 .catch(() => caches.match(e.request));
             })
+            .catch((err) => console.log(err))
         );
         return;
     }
