@@ -9,7 +9,7 @@
 - User can add funds to budget
 - User can subtract funds from budget
 - Graph will show user budget prgression as transactions are entered
-- User
+- User can continue to make transactions offline that will still be applied when back online
 
 ## Table of Contents
 
